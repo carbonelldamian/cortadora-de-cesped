@@ -1,5 +1,5 @@
-// Lawn Da Vinci
-// By Blake Hodgson
+// cortadora de cesped
+// tecnica 4
 /*
  * ----------------------------------------------------------------------------
  * "THE BEER-WARE LICENSE" (Revision 42):
